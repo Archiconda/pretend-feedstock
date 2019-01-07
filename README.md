@@ -16,8 +16,10 @@ Summary: A library for stubbing in Python
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pretend-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pretend-feedstock)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/pretend-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pretend-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/pretend-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pretend-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/pretend-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pretend-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c329eef302eb707003bfd1a/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pretend-feedstock)
 
 Current release info
 ====================
